@@ -14,7 +14,7 @@
 
 ## 说明：
 
-- sql建表语句、Nginx及Tomcat配置文件在**[配置文件](https://github.com/gcgo/springsession-homework/tree/master/%E5%A4%A7%E4%BD%9C%E4%B8%9A%E4%B8%80%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)**文件夹
+- sql建表语句、Nginx及Tomcat配置文件在[**配置文件**](https://github.com/gcgo/springsession-homework/tree/master/%E5%A4%A7%E4%BD%9C%E4%B8%9A%E4%B8%80%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)文件夹
 - 验证视频在[**验证资料**](https://github.com/gcgo/springsession-homework/tree/master/%E5%A4%A7%E4%BD%9C%E4%B8%9A%E4%B8%80%E9%AA%8C%E8%AF%81%E8%B5%84%E6%96%99)文件夹
 
 # 大作业二：
@@ -23,5 +23,5 @@
 
 ## 说明：
 
-见**[大作业二](https://github.com/gcgo/springsession-homework/tree/master/%E5%A4%A7%E4%BD%9C%E4%B8%9A%E4%BA%8C)**文件夹
+见[**大作业二**](https://github.com/gcgo/springsession-homework/tree/master/%E5%A4%A7%E4%BD%9C%E4%B8%9A%E4%BA%8C)文件夹
 
